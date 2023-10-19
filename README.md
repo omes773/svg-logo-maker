@@ -2,4 +2,4 @@
 
 # description 
 
-this is a code for a svg logo maker
+- this is a code for a svg logo maker
